@@ -8,6 +8,10 @@
 
 ---
 
-##### Test
-#### Test2
-Tes
+I'm a full-stack developer with a passion for developing high-quality software and teaching others.
+
+Currently:
+- 🏫 Obtaining a Computer Science degree
+- 🤖 Vice Chair of [Missouri S&T's ACM Game](game.mstacm.org)
+- 💵 Working in the Advanced Technology Center for World Wide Technology
+- 🎮 Playing a lot of Dota 2
