@@ -1,3 +1,3 @@
 <div align="center">
-  <h1>Hello! I'm Jonathan Henderson</h1>
+  <h3>:wave: Hi there! I'm Jonathan Henderson</h3>
 </div>
