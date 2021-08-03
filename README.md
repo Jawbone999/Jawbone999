@@ -10,20 +10,17 @@
 
 I'm a full-stack developer with a passion for developing high-quality software and teaching others.
 
-Currently:
+### Currently
 - 🏫 Obtaining a Computer Science degree at Missouri University of Science and Technology
 - 🤖 Vice Chair of [Missouri S&T's ACM Game](https://game.mstacm.org)
 - 💵 Working in the Advanced Technology Center for World Wide Technology
 - 🎮 Playing a lot of Dota 2
 
-About Me:
-- Programming Languages:
-  - Rust
-  - TypeScript / JavaScript
-  - Python
-  - Go
-  - C++
-
-Favorites:
-- Programming Language: `Rust`
-- Video Game: `Dota 2`
+### Languages
+- Rust ⭐
+- TypeScript / JavaScript
+- HTML/CSS
+- Python
+- Go
+- C#
+- C++
