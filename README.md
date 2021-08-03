@@ -24,3 +24,5 @@ I'm a full-stack developer with a passion for developing high-quality software a
 - Go
 - C#
 - C++
+
+:trollface:
