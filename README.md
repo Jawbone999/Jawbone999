@@ -10,14 +10,9 @@
 
 I'm a full-stack developer with a passion for developing high-quality software and teaching others.
 
-<div style="display: flex;">
-  <h4> Hello </h4>
-  <h4> Hello 2 </h4>
-</div>
-
 ### Currently
 - 🏫 Obtaining a Computer Science degree at Missouri University of Science and Technology
-- 🤖 Vice Chair of [Missouri S&T's ACM Game](https://game.mstacm.org)
+- 🤖 Vice Chair of <a href="https://game.mstacm.org" target="_blank">Missouri S&T's ACM Game</a>
 - 💵 Working in the Advanced Technology Center for World Wide Technology
 - 🎮 Playing a lot of Dota 2
 
