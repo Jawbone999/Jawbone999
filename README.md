@@ -11,7 +11,7 @@
 I'm a full-stack developer with a passion for developing high-quality software and teaching others.
 
 Currently:
-- 🏫 Obtaining a Computer Science degree
-- 🤖 Vice Chair of [Missouri S&T's ACM Game](game.mstacm.org)
+- 🏫 Obtaining a Computer Science degree at Missouri University of Science and Technology
+- 🤖 Vice Chair of [ACM Game](https://game.mstacm.org)
 - 💵 Working in the Advanced Technology Center for World Wide Technology
 - 🎮 Playing a lot of Dota 2
