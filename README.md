@@ -15,7 +15,3 @@ Currently:
 - 🤖 Vice Chair of [Missouri S&T's ACM Game](https://game.mstacm.org)
 - 💵 Working in the Advanced Technology Center for World Wide Technology
 - 🎮 Playing a lot of Dota 2
-
-<script>
-alert("hello");
-</script>
